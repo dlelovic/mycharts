@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-04-17T19:46:35.110984693-07:00
+    description: A Helm chart for Kubernetes
+    digest: 151c62d5da9ef11b658f7c9af02120a478a43268b7e699287a15c848fe5ea7be
+    name: notificationchart
+    urls:
+    - https://dlelovic.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-04-17T19:46:35.110506411-07:00
